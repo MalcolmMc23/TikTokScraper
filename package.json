@@ -1,0 +1,26 @@
+{
+  "name": "tiktokscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalcolmMc23/TikTokScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalcolmMc23/TikTokScraper/issues"
+  },
+  "homepage": "https://github.com/MalcolmMc23/TikTokScraper#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer-core": "^21.6.0",
+    "tiktok-scraper": "^1.4.36"
+  }
+}
